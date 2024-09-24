@@ -5,5 +5,5 @@ Este TCC investiga como a inteligência artificial pode transformar a receita do
 
 À medida que a IA avança, ela pode facilitar o primeiro contato com vidas extraterrestres, resultando em tensões geopolíticas que podem culminar na primeira guerra intergaláctica. O trabalho alerta que essas transformações, se não forem geridas de forma responsável, podem ter consequências profundas para a sociedade e o futuro da humanidade.
 
-Lian Fantucci, 19
-https://www.linkedin.com/in/lian-fantucci-4451a2266/
+Lian Fantucci, 19 <br>
+www.linkedin.com/in/lianfantucci
